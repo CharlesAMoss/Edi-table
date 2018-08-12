@@ -4,13 +4,14 @@
 ## Description
 _Editable Table Example_
 
- 
+## Exportablity 
+_based on Michael Singer's jQuery cvs export solution_
 
 ## Setup
 _Clone this repo and from your terminal / cmd line with node installed type: npm install the npm start_
 
 ## Technologies Used
-_Node.js and Bootstap 4 CDN used in some example, developed in the Chrome web browser_
+_Node.js and Bootstap 4/ jQuery CDNs used in some example, developed in the Chrome web browser_
 
 ### Legal
 Copyright (c) 2018 Charles A Moss
